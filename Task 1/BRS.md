@@ -53,12 +53,11 @@
 * Role-based access should allow different levels of control and permissions.
 
 > **❖ USE CASE DIAGRAMS**
-> * Admin User
-> * Manager User
-> * Employee User
-> * System
-> 
-> 
+
+<img src="images/4. Use Case Diagrams_page-0001.jpg" alt="Use Case Diagrams Page 1">
+<img src="images/4. Use Case Diagrams_page-0002.jpg" alt="Use Case Diagrams Page 2">
+<img src="images/4. Use Case Diagrams_page-0003.jpg" alt="Use Case Diagrams Page 3">
+<img src="images/4. Use Case Diagrams_page-0004.jpg" alt="Use Case Diagrams Page 4"> 
 
 ### Non-Functional Requirements
 
