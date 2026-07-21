@@ -21,7 +21,7 @@ class ModelWeightsCache {
     }
 }
 
-public class Main {
+public class Main5 {
     public static void main(String[] args) {
         ModelWeightsCache cache1 = ModelWeightsCache.getInstance();
         cache1.predict("image_01.png");
